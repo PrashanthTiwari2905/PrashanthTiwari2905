@@ -17,7 +17,7 @@ I build full-stack products end to end, with AI built in where it makes them bet
 
 ### About me
 
-- 💼 **Software Engineer at INDPRO Pvt Ltd**, Bengaluru: shipping web apps and React Native apps, the APIs behind them, and AI-assisted development for the team.
+- 💼 **Software Engineer** in Bengaluru, shipping web apps and React Native apps, the APIs behind them, and AI-assisted development for the team.
 - 🧱 I like owning a feature end to end: the screen people touch, the API behind it, the data underneath, and the AI that makes it smarter.
 - 🤖 On the AI side: RAG pipelines on LLM APIs, and machine-learning models that explain their predictions.
 - 🎓 B.E. Computer Science (Data Science), Vemana Institute of Technology, CGPA 8.20.
